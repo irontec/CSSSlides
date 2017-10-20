@@ -1,0 +1,51 @@
+img[alt=CSSLogo] { width: 600px; }
+
+.reveal section img[alt=CSSTimeline00] {
+    max-height: 100%;
+    max-width: 100%;
+    height: 21em;
+    margin-top: -1em;
+}
+
+.reveal section img[alt=CSSTimeline01] {
+    float: right;
+}
+
+.reveal section img[alt=CSSTimeline02] {
+    float: right;
+}
+
+.reveal li span {
+    float: right;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul.timeline {
+    list-style-type: none;
+    float:left;
+}
+ul.selectors {
+    width: 15em;
+}
+
+ul.add-css-in-html pre{
+    background: rgba(0,0,0,.1);
+    border: 1px solid #e1e1e1;
+    width: inherit;
+    text-align: center;
+    padding: 0.5em;
+    width: 95%;
+}
+
+ul.add-css-in-html-without-align pre{
+    background: rgba(0,0,0,.1);
+    border: 1px solid #e1e1e1;
+    width: inherit;
+    padding: 0.5em;
+    width: 95%;
+}

@@ -1,0 +1,37 @@
+.columns-begin ~ h2,
+.columns-begin ~ h2 + p {
+    width: 100%;
+    clear: both;
+}
+
+.columns-begin h3,
+.columns-begin p,
+.columns-begin .highlight {
+    width: 50%;
+}
+
+.columns-begin h3,
+.columns-begin p {
+    float: left;
+    box-sizing: border-box;
+    padding-right: 1rem;
+    clear: both;
+}
+
+.columns-begin ~ .highlight {
+    float: right;
+    clear: right;
+    margin-bottom: 1rem;
+}
+
+.columns-end {
+    clear: both;
+}
+
+article .columns-end ~ p,
+article .columns-end ~ h3,
+article .columns-end ~ .highlight {
+    width: auto;
+    float: none;
+    clear: none;
+}

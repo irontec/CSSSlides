@@ -1,0 +1,27 @@
+[
+    "00-preview.md",
+    "01-index.md",
+    "02-what-is-css-00.md",
+    [
+        "03-timeline-00.md",
+        "03-timeline-01.md",
+        "03-timeline-02.md"
+    ],
+    "04-terms-00.md",
+    "05-selectors-00.md",
+    "06-units-00.md",
+    [
+        "07-add-css-in-html-00.md",
+        "07-add-css-in-html-01.md",
+        "07-add-css-in-html-02.md"
+    ], [
+        "07-format-elements-00.md",
+        "07-format-elements-01.md",
+        "07-format-elements-02.md",
+        "07-format-elements-03.md",
+        "07-format-elements-04.md",
+        "07-format-elements-05.md",
+        "07-format-elements-06.md",
+        "07-format-elements-07.md"
+    ]
+]
