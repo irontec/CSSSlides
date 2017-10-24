@@ -9,15 +9,16 @@
   <li>Selectors</li>
   <li>Units</li>
   <li>html + CSS</li>
-  <li>Browser development tools</li>
-</ul>
-<ul>
-</ul>
-<ul>
-</ul>
-<ul>
+  <li>Chrome developer tools</li>
   <li>Style</li>
-  <li>Visual formatting</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
+  <li>Box model</li>
+  <li>Layout</li>
   <li>Transitions</li>
   <li>Prefixers</li>
   <li>Soporte</li>

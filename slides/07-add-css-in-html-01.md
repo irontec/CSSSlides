@@ -8,7 +8,7 @@
     &lt;html&gt;  
       &lt;head&gt;  
         <b>&lt;style&gt; 
-          h1 {color:red;}
+          h1 {color: red;}
         &lt;/style&gt; </b>
       &lt;/head&gt;
       

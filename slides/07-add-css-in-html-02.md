@@ -4,7 +4,7 @@
 <ul class="add-css-in-html-without-align">
   <li>
        Generar un archivo <b>CSS</b> independiente (.css)
-      <pre>  <b>h1 {color:red;}</b></pre>
+      <pre>  <b>h1 {color: red;}</b></pre>
   </li>
   <br>
   <br>

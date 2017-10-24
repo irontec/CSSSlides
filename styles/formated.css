@@ -1,5 +1,13 @@
 img[alt=CSSLogo] { width: 600px; }
 
+img[alt=CSSDevTools] {
+    width: 21em;
+}
+
+img[alt=CSSBoxModel] {
+    width: 25em;
+}
+
 .reveal section img[alt=CSSTimeline00] {
     max-height: 100%;
     max-width: 100%;
