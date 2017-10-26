@@ -1,2 +1,2 @@
-# Visual formatting
+# Layout
 

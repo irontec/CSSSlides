@@ -14,16 +14,16 @@
         "07-add-css-in-html-00.md",
         "07-add-css-in-html-01.md",
         "07-add-css-in-html-02.md"
-    ],
-    "08-dev-tools-00.md",
-    [
+    ], [
+        "08-dev-tools-00.md",
+        "08-dev-tools-01.md"
+    ], [
         "09-style-00.md",
         "09-style-01.md",
         "09-style-02.md",
         "09-style-03.md",
         "09-style-04.md",
-        "09-style-05.md",
-        "09-style-06.md"
+        "09-style-05.md"
     ], [
         "10-box-model-00.md",
         "10-box-model-01.md",
@@ -37,6 +37,15 @@
         "11-layout-01.md",
         "11-layout-02.md",
         "11-layout-03.md",
-        "11-layout-04.md"
+        "11-layout-04.md",
+        "11-layout-05.md"
+    ], [
+        "12-flexbox-00.md",
+        "12-flexbox-01.md",
+        "12-flexbox-02.md",
+        "12-flexbox-03.md",
+        "12-flexbox-04.md",
+        "12-flexbox-05.md",
+        "12-flexbox-06.md"
     ]
 ]

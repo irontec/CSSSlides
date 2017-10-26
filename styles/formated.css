@@ -1,11 +1,19 @@
 img[alt=CSSLogo] { width: 600px; }
 
+img[alt=CSSTimeline] {
+    padding-left: 3em;
+    height: 100%;
+    width: 100%;
+}
+
 img[alt=CSSDevTools] {
+    padding-left: 3em;
     width: 21em;
 }
 
 img[alt=CSSBoxModel] {
-    width: 25em;
+    padding-left: 4em;
+    height: 19.5em;
 }
 
 .reveal section img[alt=CSSTimeline00] {
@@ -27,6 +35,12 @@ img[alt=CSSBoxModel] {
     float: right;
 }
 
+.reveal li i.selected-item {
+    border: solid 1px #7d1c21;
+    background-color: #b0232a;
+    color: white;
+    padding: 0 0.3em;
+}
 
 ul {
     margin: 0;
@@ -37,6 +51,11 @@ ul.timeline {
     list-style-type: none;
     float:left;
 }
+
+ul.layout {
+    list-style-type: none;
+}
+
 ul.selectors {
     width: 15em;
 }

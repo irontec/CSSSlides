@@ -8,7 +8,7 @@
   <li>CSS terms</li>
   <li>Selectors</li>
   <li>Units</li>
-  <li>html + CSS</li>
+  <li>HTML + CSS</li>
   <li>Chrome developer tools</li>
   <li>Style</li>
 </ul>
