@@ -24,8 +24,9 @@
         "09-style-03.md",
         "09-style-04.md",
         "09-style-05.md",
-        "09-style-06.md"
-    ], [
+        "09-style-06.md",
+        "09-style-07.md"
+], [
         "10-box-model-00.md",
         "10-box-model-01.md",
         "10-box-model-02.md",
@@ -49,7 +50,9 @@
         "12-flexbox-05.md",
         "12-flexbox-06.md",
         "12-flexbox-07.md"
-    ], [
-        "13-overflow-00.md"
-    ]
+    ],
+    "13-support-00.md",
+    "14-bibliografia-00.md",
+    "15-workshop-00.md"
+
 ]

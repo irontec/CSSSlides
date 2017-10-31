@@ -7,7 +7,7 @@
 
 <ul class="add-css-in-html-without-align">
     <pre>div.denied {
-     cursor:not-allowed;
+     cursor: not-allowed;
  }
 </pre>
 </ul>

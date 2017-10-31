@@ -19,9 +19,8 @@
 <ul>
   <li>Box model</li>
   <li>Layout</li>
-  <li>Transitions</li>
-  <li>Prefixers</li>
-  <li>Soporte</li>
+  <li>Flexbox</li>
+  <li>Support</li>
   <li>Bibliografía</li>
   <li>Workshop</li>
 </ul>
