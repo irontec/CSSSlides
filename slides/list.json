@@ -8,7 +8,18 @@
         "03-timeline-02.md"
     ],
     "04-terms-00.md",
-    "05-selectors-00.md",
+    [
+        "05-selectors-00.md",
+        "05-selectors-01.md",
+        "05-selectors-02.md",
+        "05-selectors-03.md",
+        "05-selectors-04.md",
+        "05-selectors-05.md",
+        "05-selectors-06.md",
+        "05-selectors-07.md",
+        "05-selectors-08.md",
+        "05-selectors-09.md"
+    ],
     "06-units-00.md",
     [
         "07-add-css-in-html-00.md",

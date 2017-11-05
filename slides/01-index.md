@@ -10,13 +10,13 @@
   <li>Units</li>
   <li>HTML + CSS</li>
   <li>Chrome developer tools</li>
+</ul>
+<ul>
+</ul>
+<ul>
+</ul>
+<ul>
   <li>Style</li>
-</ul>
-<ul>
-</ul>
-<ul>
-</ul>
-<ul>
   <li>Box model</li>
   <li>Layout</li>
   <li>Flexbox</li>
