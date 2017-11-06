@@ -1,5 +1,5 @@
 ## E:focus | E:hover
-#### **Pseudo-classes**
+#### **Pseudo-classes: user actions**
 
 <div>
 <ul class="add-css-in-html-without-align">

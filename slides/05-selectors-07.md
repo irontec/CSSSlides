@@ -1,5 +1,5 @@
 ## E:link | E:visited
-#### **Pseudo-classes**
+#### **Pseudo-classes: hyperlinks**
 
 <div>
 <ul class="add-css-in-html-without-align">

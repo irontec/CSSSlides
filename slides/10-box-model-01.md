@@ -2,19 +2,14 @@
 
 <div>
 <ul class="add-css-in-html-without-align">
-<li><i>width</i></li>
-<li><i>min-width</i></li>
-<li><i>max-width</i></li>
 <li><i>height</i></li>
-<li><i>min-height</i></li>
-<li><i>max-height</i></li>
+<li><i>width</i></li>
 </ul>
 
 <ul class="add-css-in-html-without-align">
-    <pre>div {
-     max-width: 500px;
+    <pre>.rectangle{
      height: 100px;
-     background-color: powderblue;
+     width: 500px;
  }
 </pre>
 </ul>

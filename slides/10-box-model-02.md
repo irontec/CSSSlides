@@ -9,12 +9,8 @@
 </ul>
 
 <ul class="add-css-in-html-without-align">
-    <pre>div {
-     padding-top: 50px;
-     padding-right: 30px;
-     padding-bottom: 50px;
-     padding-left: 80px;
-     background-color: lightblue;
+    <pre>.with-padding{
+     padding: 50px 30px 50px 80px;
  }
 </pre>
 </ul>

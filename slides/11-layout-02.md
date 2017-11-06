@@ -8,7 +8,6 @@
 <li><i>right</i></li>
 <li><i>bottom</i></li>
 <li><i>left</i></li>
-<li><i>z-index</i></li>
 </ul>
 </ul>
 

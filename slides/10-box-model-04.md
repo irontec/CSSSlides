@@ -9,12 +9,8 @@
 </ul>
 
 <ul class="add-css-in-html-without-align">
-    <pre>div {
-     margin-top: 100px;
-     margin-bottom: 100px;
-     margin-right: 150px;
-     margin-left: 80px;
-     background-color: lightblue;
+    <pre>.with-margin {
+     margin: 100px 100px 150px 80px;
  }
 </pre>
 </ul>

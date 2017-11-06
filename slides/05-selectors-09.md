@@ -1,5 +1,5 @@
 ## E F
-#### **Combinators**
+#### **Descendant combinator**
 
 <div>
 <ul class="add-css-in-html-without-align">
