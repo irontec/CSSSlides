@@ -89,7 +89,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'https://github.com/1izpena/CSSSlides.git'
+                    remote: 'https://github.com/irontec/CSSSlides.git'
                     branch: 'gh-pages'
 
 
