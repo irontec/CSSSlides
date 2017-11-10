@@ -15,7 +15,10 @@ img[alt=CSSBoxModel] {
     padding-left: 4em;
     height: 19em;
 }
-
+.reveal section img[alt=CSSWorkshop] {
+    height: 13.3em;
+    margin: 0;
+}
 .reveal section img[alt=CSSTimeline00] {
     max-height: 100%;
     max-width: 100%;

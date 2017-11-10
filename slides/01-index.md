@@ -4,6 +4,7 @@
 <div>
 <ul>
   <li>¿Qué es CSS?</li>
+  <li>Levels</li>
   <li>Timeline</li>
   <li>CSS terms</li>
   <li>Selectors</li>
@@ -20,8 +21,9 @@
   <li>Box model</li>
   <li>Layout</li>
   <li>Flexbox</li>
-  <li>Support</li>
-  <li>Bibliografía</li>
   <li>Workshop</li>
+  <li>Support</li>
+  <li>Vendor Prefix</li>
+  <li>Bibliografía</li>
 </ul>
 </div>
