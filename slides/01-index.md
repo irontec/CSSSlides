@@ -3,7 +3,7 @@
 
 <div>
 <ul>
-  <li>¿Qué es CSS?</li>
+  <li>¿What is CSS?</li>
   <li>Levels</li>
   <li>Timeline</li>
   <li>CSS terms</li>

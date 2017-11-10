@@ -1,11 +1,12 @@
-## ¿Qué es CSS?
+## What is CSS?
 
 #### **C**ascading **S**tyle **S**heets
 
-- Lenguaje de hojas de estilos en cascada 
-- Define cómo se muestran los elementos del HTML
-    - Diseño
-    - Colores
-    - Tamaños
+- CSS is responsible for the design 
+- CSS describes how **HTML** elements are to be displayed on screen, paper or in other media:
+    - Design
+    - Colors
+    - Size
+    - Display
     - ...
-- Separado de la programación (**JS**) y la estructura (**HTML**) 
+- CSS is separated to interactivity (**JS**) and structure (**HTML**)

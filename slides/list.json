@@ -46,14 +46,15 @@
         "10-style-05.md",
         "10-style-06.md",
         "10-style-07.md"
-], [
+    ], [
         "11-box-model-00.md",
         "11-box-model-01.md",
         "11-box-model-02.md",
         "11-box-model-03.md",
         "11-box-model-04.md",
         "11-box-model-05.md",
-        "11-box-model-06.md"
+        "11-box-model-06.md",
+        "11-box-model-07.md"
     ], [
         "12-layout-00.md",
         "12-layout-01.md",
@@ -70,8 +71,11 @@
         "13-flexbox-05.md"
     ],
     "14-workshop-00.md",
-    "13-support-00.md",
-    "14-bibliografia-00.md",
-    "15-workshop-00.md"
-
+    [
+        "15-transitions-00.md",
+        "15-transitions-01.md"
+    ],
+    "16-support-00.md",
+    "17-vendor-00.md",
+    "18-bibliografia-00.md"
 ]

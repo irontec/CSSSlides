@@ -5,5 +5,5 @@
     - Internal | External
     - Browser
 
-- Bad practice:
+- Worst practice:
     - ### **~~!important~~**
