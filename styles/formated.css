@@ -37,6 +37,9 @@ img[alt=CSSBoxModel] {
 .reveal li span {
     float: right;
 }
+.reveal ul{
+    font-size: 43px;
+}
 
 .reveal li i.selected-item {
     border: solid 1px #7d1c21;
