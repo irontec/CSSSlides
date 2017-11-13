@@ -25,6 +25,6 @@
   <li>Transitions</li>
   <li>Support</li>
   <li>Vendor Prefix</li>
-  <li>Bibliografía</li>
+  <li>Bibliography</li>
 </ul>
 </div>

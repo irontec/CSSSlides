@@ -7,5 +7,4 @@
     - Media queries
     - Aural styles:
         - blind people
-    - Text align | images | tables
     - Bidirectional text | shadows
