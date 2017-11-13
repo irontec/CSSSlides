@@ -5,6 +5,3 @@
     - Upgrade backgrounds | colors
     - Upgrade media queries
     - Flexbox
-        - blind people
-    - Text align | images | tables
-    - Bidirectional text | shadows
