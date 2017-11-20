@@ -1,5 +1,6 @@
 [
     "00-preview.md",
+    "00-preview-01.md",
     "01-index.md",
     "02-what-is-css-00.md",
     [
@@ -78,5 +79,6 @@
     ],
     "16-support-00.md",
     "17-vendor-00.md",
-    "18-bibliography-00.md"
+    "18-bibliography-00.md",
+    "19-profile-00.md"
 ]
