@@ -2,8 +2,8 @@
     width: 15em;
     margin: 0;
     position: absolute;
-    top: 4em;
-    left: 6em;
+    top: 50%;
+    left: 23%;
 }
 
 img[alt=CSSLogoIrontecProfile] { padding: 100px; }
