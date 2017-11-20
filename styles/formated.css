@@ -1,4 +1,12 @@
-img[alt=CSSLogo] { width: 600px; }
+.reveal section img[alt=CSSLogo] {
+    width: 15em;
+    margin: 0;
+    position: absolute;
+    top: 5em;
+    left: 7em;
+}
+
+img[alt=CSSLogoIrontecProfile] { padding: 100px; }
 
 img[alt=CSSTimeline] {
     padding-left: 3em;
